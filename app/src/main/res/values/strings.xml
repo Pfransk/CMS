@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CMS</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="saved">Contacts Saved</string>
+
+    <string name="err_msg">Field is Empty</string>
+    <string name="err_mobile">Please check the number</string>
+    <string name="err_email">Please check the Email Address</string>
+    <string name="err_web">Please check the web address</string>
+
+
+    <string-array name="salutations">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+    </string-array>
+</resources>
